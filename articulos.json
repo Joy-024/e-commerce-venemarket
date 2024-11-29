@@ -1,0 +1,240 @@
+[
+    {
+        "nombre": "Anis Cartujo",
+        "imagen": "./imagenes/anisCartujo.png",
+        "volumen": "1 Lt",
+        "Valor": 5,
+        "Stock": 15
+    },
+    {
+        "nombre": "Arroz Mary",
+        "volumen": "1 Kg",
+        "imagen": "./imagenes/arrozMary.png",
+        "Valor": 2,
+        "Stock": 50
+    },
+    {
+        "nombre": "Big Cola",
+        "imagen": "./imagenes/bigCola.webp",
+        "volumen": "3 Lt",
+        "Valor": 4.5,
+        "Stock": 30
+    },
+    {
+        "nombre": "Bombombum Cereza",
+        "imagen": "./imagenes/bonbonbumCereza.png",
+        "volumen": "20 pcs",
+        "Valor": 6,
+        "Stock": 80
+    },
+    {
+        "nombre": "Buchanan's Aged 12 years ",
+        "imagen": "./imagenes/buchanan.webp",
+        "volumen": "1 Lt",
+        "Valor": 35,
+        "Stock": 25
+    },
+    {
+        "nombre": "Ron Cacique",
+        "imagen": "./imagenes/cacique.webp",
+        "volumen": "1 Lt",
+        "Valor": 7,
+        "Stock": 290
+    },
+    {
+        "nombre": "Torta de Casabe",
+        "imagen": "./imagenes/casabe.png",
+        "volumen": "1 pcs",
+        "Valor": 3,
+        "Stock": 100
+    },
+    {
+        "nombre": "Cerelac",
+        "imagen": "./imagenes/Cerelac.png",
+        "volumen": "1 kg",
+        "Valor": 7,
+        "Stock": 300
+    },
+    {
+        "nombre": "Cerveza Polar",
+        "imagen": "./imagenes/cervezaPolar.webp",
+        "volumen": "750 Mlt",
+        "Valor": 1,
+        "Stock": 150
+    },
+    {
+        "nombre": "Cerveza Zulia",
+        "imagen": "./imagenes/cervezaZulia.png",
+        "volumen": "750 Mlt",
+        "Valor": 1.2,
+        "Stock": 200
+    },
+    {
+        "nombre": "CheeseTris",
+        "imagen": "./imagenes/CheeseTris.png",
+        "volumen": "240 gr",
+        "Valor": 2,
+        "Stock": 60
+    },
+    {
+        "nombre": "Cocosette",
+        "imagen": "./imagenes/cocosette.png",
+        "volumen": "150 gr",
+        "Valor": 1,
+        "Stock": 99
+    },
+    {
+        "nombre": "Jamon Endiablado",
+        "imagen": "./imagenes/diablitos.png",
+        "volumen": "350 gr",
+        "Valor": 5,
+        "Stock": 180
+    },
+    {
+        "nombre": "Pepitona Eveba Guisadas",
+        "imagen": "./imagenes/evebaPepitonasGuisadas.webp",
+        "volumen": "350 gr",
+        "Valor": 4,
+        "Stock": 120
+    },
+    {
+        "nombre": "Cereal Flips",
+        "imagen": "./imagenes/flips.png",
+        "volumen": "750 gr",
+        "Valor": 4,
+        "Stock": 30
+    },
+    {
+        "nombre": "Refresco Frescolita",
+        "imagen": "./imagenes/frescolita.webp",
+        "volumen": "1.5 Lt",
+        "Valor": 3.5,
+        "Stock": 90
+    },
+    {
+        "nombre": "Harina de Trigo",
+        "imagen": "./imagenes/harinaTrigo.png",
+        "volumen": "1 Kg",
+        "Valor": 2,
+        "Stock": 100
+    },
+    {
+        "nombre": "Salsa Ketchup Heinz",
+        "imagen": "./imagenes/ketchup.png",
+        "volumen": "1 Kg",
+        "Valor": 8,
+        "Stock": 50
+    },
+    {
+        "nombre": "Lactovisoy",
+        "imagen": "./imagenes/lactovisoy.png",
+        "volumen": "1 Kg",
+        "Valor": 2.5,
+        "Stock": 75
+    },
+    {
+        "nombre": "Malta Maltin Polar",
+        "imagen": "./imagenes/malta.webp",
+        "volumen": "450 Mlt",
+        "Valor": 0.75,
+        "Stock": 250
+    },
+    {
+        "nombre": "Mantequilla Mavesa",
+        "imagen": "./imagenes/mantequilla.png",
+        "volumen": "1 Kg",
+        "Valor": 3,
+        "Stock": 70
+    },
+    {
+        "nombre": "Mayonesa Mavesa",
+        "imagen": "./imagenes/mayonesa.webp",
+        "volumen": "500 gr",
+        "Valor": 3,
+        "Stock": 150
+    },
+    {
+        "nombre": "Harina Pan",
+        "imagen": "./imagenes/harinaPan.png",
+        "volumen": "1 Kg",
+        "Valor": 4,
+        "Stock": 0
+    },
+    {
+        "nombre": "Espaguete Primor",
+        "imagen": "./imagenes/pastaPrimor.png",
+        "volumen": "1 Kg",
+        "Valor": 4,
+        "Stock": 15
+    },
+    {
+        "nombre": "Pepitonas Margaritas",
+        "imagen": "./imagenes/pepitonas.png",
+        "volumen": "300 gr",
+        "Valor": 7,
+        "Stock": 50
+    },
+    {
+        "nombre": "Pepito Pepito",
+        "imagen": "./imagenes/pepitoPepito.png",
+        "volumen": "150 gr",
+        "Valor": 1.5,
+        "Stock": 75
+    },
+    {
+        "nombre": "Picante Don Pedro",
+        "imagen": "./imagenes/picante.png",
+        "volumen": "150 gr",
+        "Valor": 2,
+        "Stock": 79
+    },
+    {
+        "nombre": "Platanitos NatuChips",
+        "imagen": "./imagenes/platanitos.png",
+        "volumen": "480 gr",
+        "Valor": 10,
+        "Stock": 300
+    },
+    {
+        "nombre": "Raquety",
+        "imagen": "./imagenes/raquety.png",
+        "volumen": "150 gr",
+        "Valor": 1.5,
+        "Stock": 15
+    },
+    {
+        "nombre": "Rikesa Cheddar",
+        "imagen": "./imagenes/rikesa.webp",
+        "volumen": "200 gr",
+        "Valor": 6,
+        "Stock": 10
+    },
+    {
+        "nombre": "RosQuis",
+        "imagen": "./imagenes/rosquis.png",
+        "volumen": "32 gr",
+        "Valor": 0.50,
+        "Stock": 50
+    },
+    {
+        "nombre": "Samba",
+        "imagen": "./imagenes/samba.png",
+        "volumen": "1 pcs",
+        "Valor": 1.9,
+        "Stock": 25
+    },
+    {
+        "nombre": "Toddy",
+        "imagen": "./imagenes/Toddy.png",
+        "volumen": "400 gr",
+        "Valor": 7,
+        "Stock": 90
+    },
+    {
+        "nombre": "Chocolate Toronto",
+        "imagen": "./imagenes/toronto.png",
+        "volumen": "1 pcs",
+        "Valor": 2,
+        "Stock": 599
+    }
+]
